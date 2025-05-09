@@ -1,0 +1,12 @@
+tensorflow
+requests
+opencv-python
+Pillow
+fastapi
+uvicorn
+keras
+opencv-python-headless
+huggingface_hub
+jax
+jaxlib
+python-multipart
