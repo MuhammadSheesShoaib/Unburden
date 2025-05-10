@@ -69,6 +69,7 @@ while True:
 
     clean_input = user_input.lower()
     if clean_input in greeting_responses:
+        time.sleep(2)
         reply = greeting_responses[clean_input]
         print("Therapist:", reply)
         chat_history.append({"from": "gpt", "value": reply})
