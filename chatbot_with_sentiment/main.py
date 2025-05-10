@@ -1,6 +1,7 @@
 import os
 from openai import OpenAI
 import requests
+import time
 
 # === Chatbot API Setup ===
 HUGGINGFACE_DEDICATED_ENDPOINT = "https://h80ls72bh8kqg12h.us-east-1.aws.endpoints.huggingface.cloud/v1/"
