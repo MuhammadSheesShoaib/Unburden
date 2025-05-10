@@ -44,7 +44,8 @@ def classify_text(text):
 def build_prompt(chat_history):
     prompt = bos_token
     prompt += ("You are a compassionate therapist providing empathetic and supportive responses. "
-               "Engage with the user in a caring, thoughtful manner while offering gentle guidance.\n")
+               "Engage with the user in a caring, thoughtful manner while offering gentle guidance.\n"
+              "Always consider the user's emotional sentiment (e.g., Depression, Stress, etc.) when crafting your replies to better address their state of mind.\n")
     for message in chat_history:
         if message["from"] == "human":
             prompt += f"User: {message['value']}\n"
