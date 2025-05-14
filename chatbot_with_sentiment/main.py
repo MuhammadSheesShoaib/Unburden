@@ -86,8 +86,6 @@ while True:
     # Add enriched input to chat history
     chat_history.append({"from": "human", "value": enriched_input})
 
-    print("DEBUG - Last message added to history:", chat_history[-1])
-
     # Build prompt and get response from LLM
     prompt_text = build_prompt(chat_history)
     response = client.completions.create(
