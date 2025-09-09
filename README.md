@@ -42,4 +42,4 @@ It combines **verbal communication, facial emotion detection, sentiment analysis
 
 - Dockerized Models deployed across AWS EC2, Hugging Face Spaces, and Hugging Face Inference Endpoints
 - FastAPI Backend manages API calls, model responses, and memory system
--React Native App interacts with backend services via secure APIs
+- React Native App interacts with backend services via secure APIs
