@@ -8,7 +8,7 @@ It combines **verbal communication, facial emotion detection, sentiment analysis
 ## 🚀 Features  
 
 - 🧑‍🤝‍🧑 **AI Therapy Avatar** – Real-time interactive avatar for personalized therapy sessions
-- 🤖 **Custom Fine-tuned LLM** – **DeepSeek R1-Distill-Qwen 2.5 7B**, fine-tuned on a **50k conversation mental health dataset** for natural, empathetic dialogue
+- 🤖 **Fine-tuned LLM** – **DeepSeek R1-Distill-Qwen 2.5 7B**, fine-tuned on a **50k conversation mental health custom build dataset** for natural, empathetic dialogue
 - 😊 **Facial Emotion Detection** – Powered by **MobileNetv2** to detect and respond to user emotions in real-time  
 - 🙆 **Head Nod Recognition** – Position-based approach to understand non-verbal feedback  
 - 💬 **Sentiment Analysis** – Fine-tuned **MentalBERT (bert-base-uncased)** on a mental health dataset for emotion-aware conversations  
