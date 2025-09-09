@@ -1,7 +1,7 @@
 # Unburden
 
 **Unburden** is an **AI-driven mental wellness app** that provides interactive therapy sessions through a **real-time AI avatar**.  
-It combines **verbal communication, facial emotion detection, sentiment analysis, and memory-driven conversations** to deliver an engaging and supportive user experience.  
+It combines **verbal communication, facial emotion detection, sentiment analysis, head-nod gesture detection and memory-driven conversations** to deliver an engaging and supportive user experience.  
 
 ---
 
